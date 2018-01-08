@@ -1,0 +1,52 @@
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.pdb
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe.config
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.exe
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.pdb
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.pdb
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csprojResolveAssemblyReference.cache
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.AnaMenu.resources
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
+F:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe.config
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.exe
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.pdb
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.pdb
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.AnaMenu.resources
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
+C:\Users\Murat\Desktop\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csproj.GenerateResource.Cache
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe.config
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.pdb
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.AnaMenu.resources
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.csproj.GenerateResource.Cache
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.exe
+C:\Users\fatih.cetinkaya\Downloads\Fç Resim Dekube Programı (Ücretsiz)\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.pdb

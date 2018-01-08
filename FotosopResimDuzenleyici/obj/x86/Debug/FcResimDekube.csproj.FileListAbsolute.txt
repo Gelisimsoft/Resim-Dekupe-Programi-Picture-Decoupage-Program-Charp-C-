@@ -1,0 +1,5 @@
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekube.csproj.GenerateResource.Cache

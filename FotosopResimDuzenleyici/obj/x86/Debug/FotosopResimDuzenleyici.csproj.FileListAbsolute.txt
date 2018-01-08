@@ -1,0 +1,46 @@
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.pdb
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.Properties.Resources.resources
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.exe
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.pdb
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\Etüd\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.AnaMenu.resources
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.AnaMenu.resources
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.Properties.Resources.resources
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResGen.read.1.tlog
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResGen.write.1.tlog
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe.config
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.pdb
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.exe
+D:\Programlar\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.pdb
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe.config
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.exe
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.pdb
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.pdb
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.AnaMenu.resources
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.Properties.Resources.resources
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResGen.read.1.tlog
+D:\FTH\Programlar\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\ResGen.write.1.tlog
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FotosopResimDuzenleyici.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.AnaMenu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FasonTakip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FotosopResimDuzenleyici.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\bin\Debug\FcResimDekubeProgrami.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\FotosopResimDuzenleyici\FotosopResimDuzenleyici\obj\x86\Debug\FcResimDekubeProgrami.Properties.Resources.resources
